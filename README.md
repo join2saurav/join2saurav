@@ -1,12 +1,27 @@
-# Hi there 👋
+<div align="center">
 
-Data Scientist with 7+ years of experience in Machine Learning, NLP, and Generative AI.
+# Saurabh Sharma
 
-* 🤖 Building with LLMs, RAG, and Agentic AI
-* 📄 Document Intelligence & Knowledge Retrieval
-* 🎯 Recommendation Systems
-* 🚀 Turning AI prototypes into production systems
+### Data Scientist • Generative AI • NLP
 
-**Tech:** Python • PyTorch • LangChain • FastAPI • SQL • Docker
+Building intelligent systems with LLMs, Retrieval, and Recommendation Engines.
 
-> From models to production.
+</div>
+
+---
+
+### What I Work On
+
+- 🤖 Generative AI
+- 📄 Document Intelligence
+- 🔎 Search & Retrieval
+- 🎯 Recommendation Systems
+- 🚀 Production AI Systems
+
+### Stack
+
+Python • PyTorch • LangChain • FastAPI • Docker • AWS
+
+---
+
+> "From documents to decisions."
