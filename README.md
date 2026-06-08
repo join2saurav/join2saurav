@@ -2,7 +2,7 @@
 
 # Saurabh Sharma
 
-### Data Scientist • Generative AI • NLP
+### Senior Data Scientist • Generative AI • NLP
 
 Building intelligent systems with LLMs, Retrieval, and Recommendation Engines.
 
