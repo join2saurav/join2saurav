@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Data Scientist with 6+ years of experience in Machine Learning, NLP, and Generative AI.
+Data Scientist with 7+ years of experience in Machine Learning, NLP, and Generative AI.
 
 * 🤖 Building with LLMs, RAG, and Agentic AI
 * 📄 Document Intelligence & Knowledge Retrieval
